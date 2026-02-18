@@ -1,4 +1,4 @@
-# InterviewAI Pro 🔥
+# PrepNexux AI 🔥
 
 AI-powered technical interview assistant built with:
 
